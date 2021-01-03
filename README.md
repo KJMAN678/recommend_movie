@@ -1,5 +1,3 @@
-### recommend_movie
-
 ### 内容
 [MovieLens](https://grouplens.org/datasets/movielens/)の ml-latest-small.zip を使用した映画のレコメンドシステム  
 
